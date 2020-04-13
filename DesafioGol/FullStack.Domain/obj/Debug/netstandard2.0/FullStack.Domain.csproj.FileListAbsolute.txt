@@ -1,0 +1,8 @@
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\DesafioGol\FullStack.Domain\bin\Debug\netstandard2.0\FullStack.Domain.deps.json
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\DesafioGol\FullStack.Domain\bin\Debug\netstandard2.0\FullStack.Domain.dll
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\DesafioGol\FullStack.Domain\bin\Debug\netstandard2.0\FullStack.Domain.pdb
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\DesafioGol\FullStack.Domain\obj\Debug\netstandard2.0\FullStack.Domain.AssemblyInfoInputs.cache
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\DesafioGol\FullStack.Domain\obj\Debug\netstandard2.0\FullStack.Domain.AssemblyInfo.cs
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\DesafioGol\FullStack.Domain\obj\Debug\netstandard2.0\FullStack.Domain.dll
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\DesafioGol\FullStack.Domain\obj\Debug\netstandard2.0\FullStack.Domain.pdb
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\DesafioGol\FullStack.Domain\obj\Debug\netstandard2.0\FullStack.Domain.csprojAssemblyReference.cache

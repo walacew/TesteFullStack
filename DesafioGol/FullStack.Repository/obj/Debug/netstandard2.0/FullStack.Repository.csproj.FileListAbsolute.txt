@@ -1,0 +1,11 @@
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\desafiogol\FullStack.Repository\obj\Debug\netstandard2.0\FullStack.Repository.csprojAssemblyReference.cache
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\desafiogol\FullStack.Repository\obj\Debug\netstandard2.0\FullStack.Repository.AssemblyInfoInputs.cache
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\desafiogol\FullStack.Repository\obj\Debug\netstandard2.0\FullStack.Repository.AssemblyInfo.cs
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\desafiogol\FullStack.Repository\bin\Debug\netstandard2.0\FullStack.Repository.deps.json
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\desafiogol\FullStack.Repository\bin\Debug\netstandard2.0\FullStack.Repository.dll
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\desafiogol\FullStack.Repository\bin\Debug\netstandard2.0\FullStack.Repository.pdb
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\desafiogol\FullStack.Repository\bin\Debug\netstandard2.0\FullStack.Domain.dll
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\desafiogol\FullStack.Repository\bin\Debug\netstandard2.0\FullStack.Domain.pdb
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\desafiogol\FullStack.Repository\obj\Debug\netstandard2.0\FullStack.Repository.csproj.CopyComplete
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\desafiogol\FullStack.Repository\obj\Debug\netstandard2.0\FullStack.Repository.dll
+C:\Users\julya\OneDrive\Documentos\Walace\Estudos\desafiogol\FullStack.Repository\obj\Debug\netstandard2.0\FullStack.Repository.pdb
