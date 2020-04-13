@@ -17,9 +17,5 @@ namespace FullStackGol.Repository.DataContext
 
         public DbSet<Passagem> Passagens { get; set; }
 
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.Entity<Passagem>().HasKey(PK => new { PK.PassagemId});
-        //} 
     }
 }
